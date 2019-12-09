@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Jetstar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Jetstar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Qantas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Virgin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
