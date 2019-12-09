@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.unimelb.swen30006.Jetstar","l":"JetstarBook"},{"p":"com.unimelb.swen30006.Jetstar","l":"JetstarFlight"},{"p":"com.unimelb.swen30006.Jetstar","l":"JetstarPassenger"},{"p":"com.unimelb.swen30006.Jetstar","l":"JetstarSearch"}]

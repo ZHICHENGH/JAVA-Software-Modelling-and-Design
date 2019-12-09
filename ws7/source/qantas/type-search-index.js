@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.unimelb.swen30006.Qantas","l":"QantasBook"},{"p":"com.unimelb.swen30006.Qantas","l":"QantasFlight"},{"p":"com.unimelb.swen30006.Qantas","l":"QantasPassenger"},{"p":"com.unimelb.swen30006.Qantas","l":"QantasSearch"}]
